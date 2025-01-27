@@ -1,8 +1,9 @@
 title: Dunkan Boyce Data Portfolio # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  It;s almost christmas 
-  Welcome to my Data Warehouse! Here you'll find a collection of my work, showcasing expertise in Data Analysis, visualization, and insights. Feel free to look around and to reach out to me!  <br><br>
+  Welcome to my Data Warehouse! Here you'll find a collection of my work, showcasing expertise in Data Analysis, visualization, and insights. 
+  <br><br>
+  Feel free to look around and to reach out to me!  <br><br>
   <a href="https://www.linkedin.com/in/dunkaboyce/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
