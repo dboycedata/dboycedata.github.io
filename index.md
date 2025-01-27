@@ -1,4 +1,4 @@
-# Data Warehouse!
+<span style="color: white;"># Data Warehouse!</span>
 
 ---
 
