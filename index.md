@@ -5,7 +5,7 @@
 <span style="color: white;">Learn About My Projects</span>
 
 #### [From Data to Decisions Analyzing DoorDash Marketing Strategies in Excel](/excel_project.md)
-<img src="/images/excel_project_pic.PNG?raw=true"/>
+<img src="/images/excel_project_pics/excel_project_wide.png?raw=true"/>
 
 
 
