@@ -4,8 +4,8 @@
 
 ### Learn About My Projects
 
-#### From Data to Decisions Analyzing DoorDash Marketing Strategies in Excel(/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### From Data to Decisions Analyzing DoorDash Marketing Strategies in Excel(/From Data to Decisions Analyzing DoorDash Marketing Strategies in Excel)
+<img src="Untitled design(3).jpg?raw=true"/>
 
 
 ---
