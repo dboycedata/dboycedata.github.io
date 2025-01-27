@@ -1,4 +1,4 @@
-<span style="color: ffffff; font-size: 40px;"><strong>Data Warehouse</strong></span>
+<span style="color: 000000; font-size: 40px;"><strong>Data Warehouse</strong></span>
 
 ---
 
