@@ -1,11 +1,11 @@
-# Welcome to My Data Warehouse!
+# Welcome to My Data Portfolio!
 
 ---
 
 ### Learn About My Projects
 
 #### From Data to Decisions Analyzing DoorDash Marketing Strategies in Excel
-<img src="untitled design(3).jpg?raw=true"/>
+<img src="Untitled design(3).JPG?raw=true"/>
 
 
 ---
