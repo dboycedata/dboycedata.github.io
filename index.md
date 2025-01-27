@@ -1,8 +1,8 @@
-<span style="color: white;"># Data Warehouse!</span>
+<span style="color: white;"><strong>Data Warehouse!</strong></span>
 
 ---
 
-### Learn About My Projects
+<span style="color: white;">Learn About My Projects</span>
 
 #### [From Data to Decisions Analyzing DoorDash Marketing Strategies in Excel](/excel_project.md)
 <img src="/images/excel_project_pic.PNG?raw=true"/>
