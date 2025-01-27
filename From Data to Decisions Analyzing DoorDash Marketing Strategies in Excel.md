@@ -1,5 +1,3 @@
-## This can be a template for an internal prject
-
 # From Data to Decisions: Analyzing DoorDash Marketing Strategies in Excel  
 **Created By:** Dunkan Boyce  
 
