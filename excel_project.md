@@ -51,7 +51,7 @@ DoorDash is a top food delivery option in the United States. The company wants t
 - **New Customers by Month:**  
   I plotted a line graph showing the total number of new customers acquired each month to identify patterns and trends.
 
-  <img src="/images/excel_project_pics/#ofnewcustomers.png?raw=true"/>  
+  <img src="/images/excel_project_pics/numberofnewcustomers.png?raw=true"/>  
 
 - **Customer Spending Tool:**  
   Using `VLOOKUP`, I built a multi-tab tool in Excel. This allows users to enter a customer ID and see the exact amount spent by that customer.
